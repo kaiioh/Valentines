@@ -48,7 +48,7 @@ yesBtn.addEventListener("click", () => {
     <div class="container" id="yayContainer">
       <h1>YAYYYYY 💖💖💖</h1>
       <h2>💘 Happy Valentine’s Day 💘</h2>
-      <p>Click <a href="https://forms.gle/YOUR_FORM_LINK" target="_blank">here</a> to tell me your cravings!</p>
+      <p>Click <a href="https://docs.google.com/forms/d/e/1FAIpQLSdjb5KtXFb4fQ0tHsyrFh0JnYUibypDtM8R4t1LDUQMVOdsmw/viewform?usp=dialog" target="_blank">here</a> to tell me your cravings!</p>
     </div>
   `;
 
@@ -86,6 +86,7 @@ yesBtn.addEventListener("click", () => {
         document.body.appendChild(img);
     }
 });
+
 
 
 
